@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "556372269513",
+    "firebase_url": "https://appdatxe-5cc16-default-rtdb.firebaseio.com",
+    "project_id": "appdatxe-5cc16",
+    "storage_bucket": "appdatxe-5cc16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556372269513:android:b5d162340c727859b93018",
+        "android_client_info": {
+          "package_name": "phuocsu.carbookingsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVNd1HTEsZ6tbcjF4w8lCvRbyIcW3AbRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
