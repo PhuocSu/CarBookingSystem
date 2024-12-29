@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "818484386583",
+    "project_id": "carbookingsystem-e0dba",
+    "storage_bucket": "carbookingsystem-e0dba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818484386583:android:a860de64f35c5a44cbb552",
+        "android_client_info": {
+          "package_name": "phuocsu.carbookingsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzDecClBsapsRiKGjM-SAC4EnWLCH-NqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
